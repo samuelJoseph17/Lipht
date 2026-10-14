@@ -17,4 +17,3 @@ We want the following people to use our app:
 - People who want to balance nutrition management, sleep, and exercise
 - People who dislike complicated diet and fitness apps.
 
-# Group Members 
